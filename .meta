@@ -13,7 +13,11 @@ Outcome: This project reduced the time needed to review and process dispatches b
 
 Technical Details: Reflect is an HTA (HTML Application), an older technology intended to make web pages look and feel like Windows applications. Reflect included 85 different .js files in its final version, many of which were common both to Reflect and Echo. Due to budget constraints, this tool was designed to run from a shared drive without needing a server, and so the functionality of the application was almost entirely JavaScript/JScript.
 `
+Instructions: ``
 Demolink: ``
+Demo: `No`
+Source: `No`
+Notes: ``
 Screenshots: `http://kentpmckinney.github.io/kpm-achievement-reflect/Reflect1.png`
 Acknowledgments: ``
 Portfolio: `Yes`
